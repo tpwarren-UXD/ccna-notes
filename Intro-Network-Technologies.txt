@@ -1,0 +1,39 @@
+﻿Components Of Computer Networks; 6
+	What Is A Computer Network?; 6
+		Common Vocabulary; 9
+		Why Do We Need Computer Networks?; 10
+Components Of Computer Networks\: Servers, NICs, Switches, Routers & Firewalls; 12
+	Servers & Clients; 14
+	Local & Remote Resources; 15
+	NICs; 16
+	Switches; 19
+	Routers; 20
+	Firewalls & IPS; 21
+Components Of Computer Networks\: Wi-Fi & DNA Center; 23
+	Wi-Fi; 25
+	Wi-Fi Controllers; 26
+	Cisco DNA Center; 27
+	Cisco DNA Center Components; 29
+Network Math; 31
+	Network Math\: Binary; 31
+		Binary Math; 33
+		Binary Numbers in Networking; 34
+	Network Math\: Hexadecimal; 35
+		Hexadecimal Math; 36
+		Hexadecimal Numbers in Networking; 38
+Network Architectures; 40
+	Network Topology Architectures; 40
+	2-Tier & 3-Tier Architectures; 43
+	Spine-Leaf Architectures; 43
+	WAN Architectures; 45
+	SOHO Architectures; 46
+	On-Premise Vs. Cloud-Based Architectures; 47
+Power Over Ethernet; 49
+	Why Do We Need PoE?; 51
+	What Can Be Powered?; 52
+	Benefits Of PoE; 53
+	PSE & PD; 54
+	How Much Power Can I Get?; 55
+	How Is Power Delivered?; 56
+	PoE Detection & Negotiation; 57
+	Monitoring PoE On Cisco Devices; 58
